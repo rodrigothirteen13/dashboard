@@ -1,4 +1,3 @@
-import React from 'react'
 import { useParams } from 'react-router-dom'
 import useFetch from '../Hooks/useFetch'
 import { IVenda } from '../Context/DataContext'
